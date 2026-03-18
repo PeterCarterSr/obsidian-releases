@@ -19047,8 +19047,8 @@
     "repo": "dreamscached/obsidian-simple-steam-auth"
   },
   {
-    "id": "code-companion",
-    "name": "Code Companion",
+    "id": "arcadia-code-companion",
+    "name": "Arcadia Code Companion",
     "author": "Dr. Peter Carter Sr.",
     "description": "Bridge Obsidian with VS Code, Claude Code, and AI coding tools. Generate project context files from your notes.",
     "repo": "PeterCarterSr/obsidian-code-companion"
